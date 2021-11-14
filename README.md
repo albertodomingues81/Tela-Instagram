@@ -1,2 +1,2 @@
-# Tela-Instagram
-Aula sobre tela de instagram
+# Loja Virtual Fender
+Projeto Loja Virtual
